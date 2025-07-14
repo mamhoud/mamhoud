@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Fahmy</h1>
-<h3 align="center">A Data scientist from egypt</h3>
+<h3 align="center">Lead AI engineer @ Mastercard</h3>
 <p align="center"><img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" alt="mamhoud" />  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamhoud&label=Profile%20views&color=0e75b6&style=flat" alt="mamhoud" /> </p>
 
